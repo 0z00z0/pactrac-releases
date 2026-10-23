@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="18 18 72 72" width="160" height="160" role="img" aria-label="PacTrac app icon">
+  <defs><clipPath id="c"><circle cx="54" cy="54" r="36"/></clipPath></defs>
+  <g clip-path="url(#c)">
+    <path fill="#4552f5" d="M0,0h108v108h-108z"/>
+    <path d="M47.72,55.68 L82.3,46.42 Q95.82,42.79 111.25,24.41" fill="none" stroke="#c9cdff" stroke-width="18" stroke-linecap="round"/>
+    <path d="M47.72,55.68 L82.3,46.42 Q95.82,42.79 111.25,24.41" fill="none" stroke="#0b0d26" stroke-width="13" stroke-linecap="round"/>
+    <path fill="#ffd21e" d="M47.72,55.68 L65.79,36.3 A26.5,26.5 0 1,0 73.06,63.43 Z"/>
+    <path fill="#ffe2b8" d="M60.87,50.76 a5.2,5.2 0 1,0 10.4,0 a5.2,5.2 0 1,0 -10.4,0 Z M75.17,46.93 a5.2,5.2 0 1,0 10.4,0 a5.2,5.2 0 1,0 -10.4,0 Z"/>
+  </g>
+</svg>
