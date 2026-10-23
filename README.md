@@ -51,6 +51,8 @@ The panel tallies the streets finished on this outing and how many in the area a
 
 ## Based on CityStrides
 
+<a href="https://citystrides.com"><img src="images/citystrides-logo.png" alt="CityStrides" height="40"></a>
+
 PacTrac is based on [CityStrides](https://citystrides.com) statistics, and CityStrides is the record of which streets are finished.
 Connect a CityStrides account and the map shows that record: finished streets in white, the rest still waiting to be eaten.
 City percentages and comparisons with others stay on CityStrides, one tap from the app.
