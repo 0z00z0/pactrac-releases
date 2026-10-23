@@ -2,10 +2,6 @@
   <a href="images/pactrac-paris-champs-elysees-1920x960.mp4"><img src="images/pactrac-paris-champs-elysees.gif" width="100%" alt="Pac-Man finishing the Champs-Élysées in front of the Eiffel Tower"></a>
 </p>
 
-<p align="center">
-  <img src="images/icon.svg" width="96" alt="PacTrac app icon: a yellow Pac-Man eating two dots along a street on a blue background">
-</p>
-
 <h1 align="center">PacTrac</h1>
 
 <p align="center"><b>Every street in town, one dot at a time.</b><br>
