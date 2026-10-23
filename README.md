@@ -4,81 +4,78 @@
 
 <h1 align="center">PacTrac</h1>
 
-<p align="center"><b>Run every street in town, one dot at a time.</b><br>
-Every street not yet run becomes a trail of dots on the map. Run past them and they are eaten, Pac-Man style.</p>
+<p align="center"><b>Every street in town, one dot at a time.</b><br>
+Each street not yet covered becomes a trail of dots. Run or walk it, and the dots are gone. Waka waka.</p>
 
 <p align="center">
-  <img src="images/hero.jpg" width="100%" alt="Three PacTrac screens: a town map covered in yellow dots on every street, a run that has just completed the street Brattlien with 63 dots in 476 metres, and the statistics screen with kilometres per week, dots per week and a 58-week streak">
+  <img src="images/hero.jpg" width="100%" alt="Three PacTrac screens: a town map covered in yellow dots on every street, an activity that has just completed the street Brattlien with 63 dots in 476 metres, and the statistics screen with distance per week, dots per week and a 58-week streak">
 </p>
 
-<p align="center"><i>Real screens from the app, shown with demo data in Bergen.</i></p>
+<p align="center"><i>Real screens from the app, with demo data from Bergen.</i></p>
 
-## Every street is a dot to eat
+## A town full of dots
 
 <img src="images/dots-everywhere.jpg" width="260" align="right" alt="Map of a town centre with yellow dots along every street and the Pac-Man position marker in the middle">
 
-Open the map and every street still to run lights up with dots, from the main road to the smallest alley.
-An ordinary run turns into a hunt: there is always a new street in sight.
+Open the map and every street still to cover glows with dots, from the high street to the narrowest alley.
+A routine outing turns into a hunt. There is always one more street in sight.
 
 <br clear="right">
 
-## Watch the map empty behind the run
+## The map empties behind every step
 
-<img src="images/dots-eaten.jpg" width="260" align="right" alt="A run in progress: a pink trail where the dots have been eaten, with dots still ahead and the dots of the current street ringed in red">
+<img src="images/dots-eaten.jpg" width="260" align="right" alt="An activity in progress: a pink trail where the dots have been eaten, with dots still ahead and the dots of the current street ringed in red">
 
-Dots vanish as the run passes them, and the score counts up live.
-Eat them in a row and the streak multiplier climbs to ×5. The dots left on the street underfoot are ringed in red, and the last one on a street grows into a power pellet.
+Dots vanish underfoot and the score ticks up live.
+Eat them in a row and the streak multiplier climbs to ×5. Red rings mark what is left of the current street, and the last dot swells into a power pellet.
 
 <br clear="right">
 
-## The best moment: street complete
+## Street complete
 
 <img src="images/street-complete.jpg" width="260" align="right" alt="A banner reading Brattlien complete, 63 dots, 476 metres, above the live numbers: pace, distance, time, streak ×5 and 2 streets finished">
 
-Eat the last dot and the street is announced by name: *Brattlien complete, 63 dots, 476 m.*
-The panel counts the streets finished on this run and how many in the area are done.
+Swallow the last dot and the street gets its name in lights: *Brattlien complete, 63 dots, 476 m.*
+The panel tallies the streets finished on this outing and how many in the area are done.
 
 <br clear="right">
 
-## Numbers for the self-competitive
+## Numbers to beat
 
-<img src="images/statistics.jpg" width="100%" alt="Statistics screens: kilometres run, walked and ridden for the week and for each year as bar charts, dots eaten per week, a 6-day and a 58-week streak">
+<img src="images/statistics.jpg" width="100%" alt="Statistics screens: distance walked, run and ridden for the week and for each year as bar charts, dots eaten per week, a 6-day and a 58-week streak">
 
-- **Kilometres** run, walked and ridden, per week, month and year, or in total.
-- **Dots eaten per week**, for the last twelve weeks.
-- **Streaks** in days and in weeks, the kind that are hard to break.
-- **Activities per month**, and every run in the list carries its score.
+- **Distance** walked, run and ridden, per week, month and year, or in total.
+- **Dots eaten** per week, for the last twelve weeks.
+- **Streaks** in days and in weeks, and every one of them begs not to be broken.
+- **Activities** per month, each one in the list carrying its score.
 
-## Built on CityStrides
+## Based on CityStrides
 
-[CityStrides](https://citystrides.com) is the wonderful community project behind street running.
-It records every street a runner has covered, in every city, and gives each run a purpose: finish all the streets.
+PacTrac is based on [CityStrides](https://citystrides.com) statistics, and CityStrides is the record of which streets are finished.
+Connect a CityStrides account and the map shows that record: finished streets in white, the rest still waiting to be eaten.
+City percentages and comparisons with others stay on CityStrides, one tap from the app.
 
-- PacTrac is based on CityStrides statistics.
-- Connect a CityStrides account, and the map shows the runner's own record: streets already finished in white, the rest still to eat, in any town the map is moved to.
-- City percentages, the full record of places run and the league live on CityStrides, one tap away from the app.
-
-CityStrides remains the record of which streets are finished. PacTrac is an independent app, not an official CityStrides product.
+PacTrac is an independent app, not an official CityStrides product.
 
 ## A route full of new streets
 
-The route planner builds a run that collects as many unrun streets as possible: a round trip from the door, a drawn area, or a route through chosen points.
-Arrows on the map show the way, and the phone buzzes before each turn.
+The route planner builds an outing that sweeps up as many uncovered streets as it can: a round trip from the door, a drawn area, or a line through chosen points.
+Arrows point the way, and the phone buzzes before each turn.
 
 ## Pick a look
 
 <img src="images/designs.jpg" width="100%" alt="The same map in the three designs: Glass and Neon, CRT with 8-bit pixel icons, and Calm">
 
-Glass + Neon, CRT + 8-bit pixel, or Calm, each with its own icons, plus a Daylight setting for bright sun.
+Glass + Neon, CRT + 8-bit pixel, or Calm, each with its own icons. A Daylight setting keeps the map readable in bright sun.
 
-## More on the run
+## More on the way
 
 <img src="images/welcome.jpg" width="220" align="right" alt="The welcome tour: a Pac-Man maze with dots being eaten, above the line: PacTrac puts a dot on every street not yet run">
 
-- **Flags with spoken notes:** mark a place on the route and dictate a note while running.
+- **Flags with spoken notes:** mark a spot and dictate a note without breaking stride.
 - **Same dots on every phone:** settings and eaten dots follow the account, with sign-in by passkey.
-- **A welcome tour** on the first start explains the map and the sign-ins.
-- **Private by default:** recorded runs stay on the phone.
+- **A welcome tour** on first start explains the map and the sign-ins.
+- **Private by default:** recorded activities stay on the phone.
 
 <br clear="right">
 
@@ -89,7 +86,7 @@ Glass + Neon, CRT + 8-bit pixel, or Calm, each with its own icons, plus a Daylig
 3. Open the file. Android asks once for permission to install apps from this source.
 
 New versions arrive inside the app: it finds them and installs them itself.
-A copy installed before the current signing key is refused as *App not installed*; remove it first, after exporting any runs worth keeping.
+A copy installed before the current signing key is refused as *App not installed*; remove it first, after exporting any activities worth keeping.
 
 ## This repository
 
