@@ -1,10 +1,54 @@
-# PacTrac releases
+# PacTrac
+
+**Every street in town, run one dot at a time.** PacTrac shows the streets not yet run as dots on
+the map, Pac-Man style. Each dot is eaten as the run passes it, so new streets are always in sight.
+
+**Built on CityStrides.** [CityStrides](https://citystrides.com) is the community project that
+records every street a runner has covered and gives every run a purpose: finish all the streets in
+the city. PacTrac reads that CityStrides data and adds a live view and route planning on top.
+CityStrides remains the record of which streets are finished. PacTrac is an independent app, not
+an official CityStrides product.
+
+## What it does
+
+- **Dots from CityStrides data.** The streets still to run are drawn as dots, so the next new
+  street is easy to find.
+- **Eat them live.** Dots disappear as the run passes them, and the score and the streets finished
+  count up during the run.
+- **Comparison after the run.** A report sets the run against what CityStrides counted, with a map
+  of any gaps and the places where the two disagree.
+- **Route planner for new streets.** A round trip, a drawn area or a route through points A to H,
+  with a slider for how far a detour may go, each built to collect as many unrun streets as it can.
+- **Turn-by-turn on the map.** Arrows show the way ahead, and the phone buzzes before each turn
+  onto another street.
+- **Three looks.** Glass + Neon, CRT + 8-bit pixel or Calm, plus a Daylight setting for bright sun.
+- **Statistics.** Kilometres run, walked and ridden, dots eaten per week, day and week streaks,
+  and streets finished.
+- **Flags with spoken notes.** A flag marks a place on the route, and its note can be dictated in
+  Norwegian while running.
+- **Works without signal.** Dots already stored for an area stay on the map and can still be eaten.
+- **Sync between phones.** Settings and eaten dots follow the account, with sign-in by passkey.
+- **Updates itself.** The app finds and installs new versions from this page.
+- **A short welcome tour** on the first start explains the map, the permissions and the sign-ins.
+
+PacTrac runs on Android. Recorded tracks and activities stay on the phone.
+
+## Installing on Android
+
+Download the `.apk` from the newest `android-` release and open it on the
+phone. Android asks for permission to install from this source the first time.
+Later versions arrive through the app's own update check.
+
+Every build is signed with the same key. An install refused as *App not
+installed* or `INSTALL_FAILED_UPDATE_INCOMPATIBLE` means the installed copy
+predates that key and has to be uninstalled first, which deletes its recorded
+tracks. Export anything worth keeping before doing that.
+
+## This repository
 
 Installable builds of [PacTrac](https://github.com/0z00z0/pactrac). Artifacts
 only. The source repo is private; this one is public so the app can check for and
 download its own updates without carrying a token that could read anything else.
-
-## Layout
 
 The platform is part of the tag, so both platforms live here side by side.
 
@@ -16,16 +60,6 @@ The platform is part of the tag, so both platforms live here side by side.
 `versionCode` is one monotonic counter shared by both platforms, so a number
 identifies one build of PacTrac rather than one build of one platform. The
 update check reads the integer after the `+`.
-
-## Installing on Android
-
-Download the `.apk` from the newest `android-` release and open it on the
-phone. Android asks for permission to install from this source the first time.
-
-Every build is signed with the same key. An install refused as *App not
-installed* or `INSTALL_FAILED_UPDATE_INCOMPATIBLE` means the installed copy
-predates that key and has to be uninstalled first, which deletes its recorded
-tracks. Export anything worth keeping before doing that.
 
 ## Release notes
 
