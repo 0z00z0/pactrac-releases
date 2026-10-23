@@ -11,25 +11,36 @@ an official CityStrides product.
 
 ## What it does
 
-- **Dots from CityStrides data.** The streets still to run are drawn as dots, so the next new
-  street is easy to find.
+- **Dots in seconds.** Street data comes from PacTrac's own server, so the dots in view appear
+  within seconds, finished streets in white beside the ones still to run.
+- **Back at once after a restart.** Dots are stored on the phone, so they are on the map straight
+  away, also with no signal, and can still be eaten.
+- **Smooth over large areas.** Every dot in view is drawn, even across many dense neighbourhoods,
+  and the map keeps moving smoothly.
+- **A steady view zoomed out.** Far out, the map shows a sample of the dots that stays in place;
+  zooming in shows them all.
+- **One tap to refresh.** The dot button asks CityStrides again for everything in view, so streets
+  CityStrides has just credited turn white.
 - **Eat them live.** Dots disappear as the run passes them, the score counts up, and a notice
   shows each street finished.
+- **Streets finished.** Beside the dots eaten, the panel counts the streets finished on this run
+  and how many streets nearby are done.
 - **Comparison after the run.** A report sets the run against what CityStrides counted, with a map
   of any gaps and the places where the two disagree.
 - **Route planner for new streets.** A round trip, a drawn area or a route through points A to H,
   with a slider for how far a detour may go, each built to collect as many unrun streets as it can.
 - **Turn-by-turn on the map.** Arrows show the way ahead, and the phone buzzes before each turn
   onto another street.
-- **Three looks.** Glass + Neon, CRT + 8-bit pixel or Calm, plus a Daylight setting for bright sun.
+- **Three looks.** Glass + Neon, CRT + 8-bit pixel or Calm, each with its own icons, plus a
+  Daylight setting for bright sun.
+- **A new app icon.** Pac-Man eating dots along a street, also as an Android themed icon.
 - **Statistics.** Kilometres run, walked and ridden, dots eaten per week, day and week streaks,
   and activities per month.
 - **Flags with spoken notes.** A flag marks a place on the route, and its note can be dictated in
   Norwegian while running.
-- **Works without signal.** Dots already stored for an area stay on the map and can still be eaten.
 - **Sync between phones.** Settings and eaten dots follow the account, with sign-in by passkey.
 - **Updates itself.** The app finds and installs new versions from this page.
-- **A short welcome tour** on the first start explains the map, the permissions and the sign-ins.
+- **A welcome tour** on the first start explains the map, the permissions and the sign-ins.
 
 PacTrac runs on Android. Recorded tracks and activities stay on the phone.
 
@@ -54,8 +65,8 @@ The platform is part of the tag, so both platforms live here side by side.
 
 | Platform | Tag | Asset |
 |---|---|---|
-| Android | `android-v<versionName>+<versionCode>` | `pactrac-android-v<versionName>+<versionCode>.apk` |
-| iOS | `ios-v<versionName>+<versionCode>` | `pactrac-ios-v<versionName>+<versionCode>.ipa` |
+| Android | `android-v<versionName>+<versionCode>` | `pactrac-android-v<versionName>.apk` |
+| iOS | `ios-v<versionName>+<versionCode>` | `pactrac-ios-v<versionName>.ipa` |
 
 `versionCode` is one monotonic counter shared by both platforms, so a number
 identifies one build of PacTrac rather than one build of one platform. The
