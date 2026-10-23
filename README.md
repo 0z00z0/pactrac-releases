@@ -66,16 +66,9 @@ Arrows point the way, and the phone buzzes before each turn.
 
 <img src="images/designs.jpg" width="100%" alt="The same map in the three designs: Glass and Neon, CRT with 8-bit pixel icons, and Calm">
 
-Glass + Neon, CRT + 8-bit pixel, or Calm, each with its own icons. A Daylight setting keeps the map readable in bright sun.
-
 ## More on the way
 
 <img src="images/welcome.jpg" width="220" align="right" alt="The welcome tour: a Pac-Man maze with dots being eaten, above the line: PacTrac puts a dot on every street not yet run">
-
-- **Flags with spoken notes:** mark a spot and dictate a note without breaking stride.
-- **Same dots on every phone:** settings and eaten dots follow the account, with sign-in by passkey.
-- **A welcome tour** on first start explains the map and the sign-ins.
-- **Private by default:** recorded activities stay on the phone.
 
 <br clear="right">
 
