@@ -13,8 +13,8 @@ an official CityStrides product.
 
 - **Dots from CityStrides data.** The streets still to run are drawn as dots, so the next new
   street is easy to find.
-- **Eat them live.** Dots disappear as the run passes them, and the score and the streets finished
-  count up during the run.
+- **Eat them live.** Dots disappear as the run passes them, the score counts up, and a notice
+  shows each street finished.
 - **Comparison after the run.** A report sets the run against what CityStrides counted, with a map
   of any gaps and the places where the two disagree.
 - **Route planner for new streets.** A round trip, a drawn area or a route through points A to H,
@@ -23,7 +23,7 @@ an official CityStrides product.
   onto another street.
 - **Three looks.** Glass + Neon, CRT + 8-bit pixel or Calm, plus a Daylight setting for bright sun.
 - **Statistics.** Kilometres run, walked and ridden, dots eaten per week, day and week streaks,
-  and streets finished.
+  and activities per month.
 - **Flags with spoken notes.** A flag marks a place on the route, and its note can be dictated in
   Norwegian while running.
 - **Works without signal.** Dots already stored for an area stay on the map and can still be eaten.
