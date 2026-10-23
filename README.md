@@ -76,17 +76,4 @@ Glass + Neon, CRT + 8-bit pixel, or Calm, each with its own icons. A Daylight se
 2. Open the newest `android-` release under [Releases](../../releases) on the phone and download the `.apk` file.
 3. Open the file. Android asks once for permission to install apps from this source.
 
-New versions arrive inside the app: it finds them and installs them itself.
-A copy installed before the current signing key is refused as *App not installed*; remove it first, after exporting any activities worth keeping.
-
-## This repository
-
-Installable builds of PacTrac and nothing else. The source repository is private; this one is public so the app can check for and download its own updates.
-
-| Platform | Tag | File |
-|---|---|---|
-| Android | `android-v<versionName>+<versionCode>` | `pactrac-android-v<versionName>.apk` |
-| iOS | `ios-v<versionName>+<versionCode>` | `pactrac-ios-v<versionName>.ipa` |
-
-The number after the `+` counts every build across both platforms, and the update check reads it.
-Release notes list the issues closed since the previous release of the same platform; a release that lists nothing is still a real build.
+The app updates itself. Android asks for permission to install the update the first time.
