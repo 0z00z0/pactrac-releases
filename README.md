@@ -19,6 +19,7 @@ Each street not yet covered becomes a trail of dots. Run or walk it, and the dot
 
 Open the map and every street still to cover glows with dots, from the high street to the narrowest alley.
 A routine outing turns into a hunt. There is always one more street in sight.
+Zoom far out and the map stays calm: fewer, smaller dots, and a yellow wash that shows where the most streets are still waiting.
 
 <br clear="right">
 
@@ -36,9 +37,21 @@ Eat them in a row and the streak multiplier climbs to ×5. Red rings mark what i
 <img src="images/street-complete.jpg" width="260" align="right" alt="A banner reading Brattlien complete, 63 dots, 476 metres, above the live numbers: pace, distance, time, streak ×5 and 2 streets finished">
 
 Swallow the last dot and the street gets its name in lights: *Brattlien complete, 63 dots, 476 m.*
+Then the map pulls back to show the whole street, a green tick draws itself on it, and after about four seconds the map goes back to following along.
 The panel tallies the streets finished on this outing and how many in the area are done.
 
 <br clear="right">
+
+## Your numbers, at a glance
+
+Swipe between three pages, from the most map to the most numbers:
+
+- **Map focus** keeps one slim line of two numbers over an open map.
+- **Mixed** shows one large number with three more beneath it.
+- **Activity data** shows every number chosen.
+
+Which numbers appear, and in what order, is chosen in Settings: pace, distance, time, clock, streak, dots eaten, streets finished and more.
+Each one is an icon and a number, or a short word, so a two-second glance at arm's length is enough.
 
 ## Numbers to beat
 
@@ -48,6 +61,13 @@ The panel tallies the streets finished on this outing and how many in the area a
 - **Dots eaten** per week, for the last twelve weeks.
 - **Streaks** in days and in weeks, and every one of them begs not to be broken.
 - **Activities** per month, each one in the list carrying its score.
+
+## One account, every phone
+
+Sign in to a PacTrac account with a passkey, and every setting follows the account to the next phone: the chosen numbers, the look, the activity colours and the rest.
+Finished activities travel too, tracks included. A change made on one phone, or an activity deleted there, reaches the other.
+
+Saved a walk as cycling by mistake? Change the type afterwards and the dots are counted again: a walk or a run takes the dots along its track, and cycling takes none.
 
 ## Based on CityStrides
 
@@ -62,6 +82,7 @@ PacTrac is an independent app, not an official CityStrides product.
 ## A route full of new streets
 
 The route planner builds an outing that sweeps up as many uncovered streets as it can: a round trip from the door, a drawn area, or a line through chosen points.
+Every choice is in view when the planner opens, each an icon and a word or two, in the order they are set: where to start, the area or the points, the surface, and last the length.
 Arrows point the way, and the phone buzzes before each turn.
 
 ## Pick a look
@@ -69,6 +90,7 @@ Arrows point the way, and the phone buzzes before each turn.
 <img src="images/designs.jpg" width="100%" alt="The same map in the three designs: Glass and Neon, CRT with 8-bit pixel icons, and Calm">
 
 Glass + Neon, CRT + 8-bit pixel, or Calm, each with its own icons. A Daylight setting keeps the map readable in bright sun.
+Outings are drawn in light mint for walks, pink for runs and sky blue for cycling, and earlier outings stay clearly visible under the one in progress.
 
 ## Install on Android
 
