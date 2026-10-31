@@ -30,9 +30,9 @@ Dots on the trail disappear and the score counts up. Eating dots in a row raises
 
 ## Street complete
 
-<img src="images/street-complete.jpg" width="260" align="right" alt="A banner reading Rue des Rosiers complete, 14 dots, above the live numbers">
+<img src="images/street-complete.jpg" width="260" align="right" alt="The map zoomed to Rue des Rosiers with a green check on the street and a banner reading complete">
 
-The last dot of a street shows its name, the dots and the metres.
+A finished street, zoomed and checked.
 
 <br clear="right">
 
