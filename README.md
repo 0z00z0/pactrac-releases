@@ -38,15 +38,25 @@ A finished street, zoomed and checked.
 
 ## Your numbers, at a glance
 
+<img src="images/fields.jpg" width="260" align="right" alt="Settings, Fields: the numbers for Map focus, Mixed and Activity data, each with a drag handle">
+
 Three pages: Map focus, Mixed and Activity data. Settings → Fields sets which numbers each page shows, by drag and drop.
 
+<br clear="right">
+
 ## Numbers to beat
+
+<img src="images/statistics.jpg" width="100%" alt="Statistics for the week and the year: distance run, walked and cycled, dots per week and the streak in days and weeks">
 
 Statistics show distance, dots eaten, streaks and activities per week, month, year and in total.
 
 ## One account, every phone
 
+<img src="images/account.jpg" width="260" align="right" alt="Settings, Accounts: the PacTrac account with Sign in, New account and What syncs">
+
 Signed in with a passkey, settings and finished activities sync between phones.
+
+<br clear="right">
 
 ## Based on CityStrides
 
@@ -71,8 +81,14 @@ Three looks: CRT + 8-bit Pixel, Glass + Neon Cabinet and Calm + Neon Cabinet. Hi
 
 ## Install on Android
 
+<img src="images/welcome.jpg" width="260" align="right" alt="The first of five welcome pages: Welcome to PacTrac, over a Pac-Man maze">
+
+The first start opens a short welcome.
+
 1. Android 8 or newer is needed.
 2. Download the `.apk` from the newest `android-` release under [Releases](../../releases), currently 0.36.0.
 3. Open the file and allow installs from this source once.
 
 The app updates itself from the same releases. Every release is signed with the certificate whose SHA-256 fingerprint ends in `8399`.
+
+<br clear="right">
